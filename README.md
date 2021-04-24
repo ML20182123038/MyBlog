@@ -12,7 +12,7 @@
 
 # myblog
 
-个人博客系统(SpringBoot + Mybatis)
+java开发的个人博客系统，利用SpringBoot+Mybatis框架，prism代码高亮，目录生成Tocbot。
 
 
 ### 一、技术栈
