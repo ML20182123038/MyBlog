@@ -1,3 +1,11 @@
+<p align="center">
+	<img src="https://img.shields.io/badge/Maven-green.svg" ></img>
+	<a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
+		<img src="https://img.shields.io/badge/JDK-1.8+-blue.svg" ></img>
+	</a>
+	<img src="https://img.shields.io/badge/MySQL-8-red.svg" ></img>
+</p>
+
 # myblog
 
 个人博客系统(SpringBoot + Mybatis)
