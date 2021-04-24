@@ -1,9 +1,13 @@
-<p align="center">
+<p>
 	<img src="https://img.shields.io/badge/Maven-green.svg" ></img>
 	<a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
 		<img src="https://img.shields.io/badge/JDK-1.8+-blue.svg" ></img>
 	</a>
+	<img src="https://img.shields.io/badge/SpringBoot-2-green.svg" ></img>
 	<img src="https://img.shields.io/badge/MySQL-8-red.svg" ></img>
+	<img src="https://img.shields.io/badge/prism-red.svg" ></img>
+	<img src="https://img.shields.io/badge/Markdown-yellow.svg" ></img>
+	<img src="https://img.shields.io/badge/animate.css-blue.svg" ></img>
 </p>
 
 # myblog
@@ -30,7 +34,6 @@
 - 模板框架：Thymeleaf
 - 分页插件：PageHelper
 - 加密：MD5加密
-- 运行环境：腾讯云Centos7
 
 #### 3.数据库
 - MySQL 8
