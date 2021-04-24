@@ -1,6 +1,6 @@
 # myblog
 
-个人博客系统
+个人博客系统(SpringBoot + Mybatis)
 
 
 ### 一、技术栈
